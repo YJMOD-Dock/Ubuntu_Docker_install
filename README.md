@@ -1,7 +1,7 @@
 # Ubuntu_Docker_install
 
 ## 필요 환경
-Ubuntu\
+Ubuntu 64bit\
 Nvidia Driver\
 CUDA
 
